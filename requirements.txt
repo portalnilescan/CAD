@@ -1,0 +1,16 @@
+torch
+pillow
+numpy
+torchvision
+pydicom
+segmentation-models-pytorch
+# The following are not used in AI_model.py but may be needed elsewhere in your project:
+# fastapi>=0.95.0
+# uvicorn>=0.21.0
+# python-multipart>=0.0.6
+# pydantic>=1.10.7
+# python-jose[cryptography]>=3.3.0
+# passlib>=1.7.4
+# python-dotenv>=1.0.0
+# starlette>=0.27.0
+# typing-extensions>=4.5.0

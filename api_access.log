@@ -1,0 +1,1784 @@
+2025-03-16 08:02:55,663 - id_card_api - INFO - Authentication attempt
+2025-03-16 08:02:55,671 - id_card_api - INFO - Authentication successful
+2025-03-16 08:02:55,674 - id_card_api - INFO - Processing file: Hash=76aa4ec67508b6abc0f6fb0fb7bfde70eb9a0809549611e3e512b80ba7a165a9, Size=636430
+2025-03-16 08:02:55,674 - id_card_api - INFO - Processing successful
+2025-03-16 08:07:29,548 - id_card_api - INFO - Authentication attempt
+2025-03-16 08:07:29,549 - id_card_api - INFO - Authentication successful
+2025-03-16 08:07:29,551 - id_card_api - INFO - Processing file: Hash=76aa4ec67508b6abc0f6fb0fb7bfde70eb9a0809549611e3e512b80ba7a165a9, Size=636430
+2025-03-16 08:07:29,552 - id_card_api - INFO - Processing successful
+2025-03-16 08:09:38,849 - id_card_api - INFO - Authentication attempt
+2025-03-16 08:09:38,849 - id_card_api - INFO - Authentication successful
+2025-03-16 08:09:38,850 - id_card_api - INFO - Processing successful
+2025-03-16 13:24:24,135 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:24:24,152 - id_card_api - INFO - Authentication successful
+2025-03-16 13:24:25,563 - id_card_api - ERROR - Processing error: current_image does not exist
+2025-03-16 13:28:01,142 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:28:01,143 - id_card_api - INFO - Authentication successful
+2025-03-16 13:28:01,144 - id_card_api - INFO - Processing successful
+2025-03-16 13:28:01,145 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'starlette.datastructures.UploadFile'>}
+
+2025-03-16 13:31:54,290 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:31:54,292 - id_card_api - INFO - Authentication successful
+2025-03-16 13:31:54,293 - id_card_api - INFO - Processing successful
+2025-03-16 13:31:54,294 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'bytes'>}
+
+2025-03-16 13:36:20,078 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:20,078 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:20,083 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:20,086 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:21,277 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:21,277 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:21,277 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:21,277 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:22,039 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:22,044 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:22,045 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:22,045 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:22,491 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:22,493 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:22,494 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:22,494 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:22,991 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:22,995 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:22,996 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:22,998 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:23,591 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:23,591 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:23,591 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:23,591 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:24,079 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:24,079 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:24,079 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:24,079 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:24,606 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:24,608 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:24,609 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:24,609 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:25,082 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:25,082 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:25,082 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:25,082 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:36:25,578 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:36:25,578 - id_card_api - INFO - Authentication successful
+2025-03-16 13:36:25,584 - id_card_api - INFO - Processing successful
+2025-03-16 13:36:25,584 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:38:51,657 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:38:51,659 - id_card_api - INFO - Authentication successful
+2025-03-16 13:38:51,663 - id_card_api - INFO - Processing successful
+2025-03-16 13:38:51,664 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:38:52,650 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:38:52,650 - id_card_api - INFO - Authentication successful
+2025-03-16 13:38:52,650 - id_card_api - INFO - Processing successful
+2025-03-16 13:38:52,650 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:40:34,775 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:40:34,775 - id_card_api - INFO - Authentication successful
+2025-03-16 13:40:34,779 - id_card_api - INFO - Processing successful
+2025-03-16 13:40:34,779 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'model_attributes_type', 'loc': ('response',), 'msg': 'Input should be a valid dictionary or object to extract fields from', 'input': <class 'str'>}
+
+2025-03-16 13:41:03,432 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:41:03,432 - id_card_api - INFO - Authentication successful
+2025-03-16 13:41:03,432 - id_card_api - ERROR - Processing error: unbound method str.strip() needs an argument
+2025-03-16 13:41:55,337 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:41:55,337 - id_card_api - INFO - Authentication successful
+2025-03-16 13:41:55,351 - id_card_api - ERROR - Processing error: unbound method str.strip() needs an argument
+2025-03-16 13:42:45,621 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:42:45,622 - id_card_api - INFO - Authentication successful
+2025-03-16 13:42:45,628 - id_card_api - INFO - Processing successful
+2025-03-16 13:42:45,628 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'type'>
+2025-03-16 13:42:46,957 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:42:46,959 - id_card_api - INFO - Authentication successful
+2025-03-16 13:42:46,959 - id_card_api - INFO - Processing successful
+2025-03-16 13:42:46,963 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'type'>
+2025-03-16 13:42:47,705 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:42:47,705 - id_card_api - INFO - Authentication successful
+2025-03-16 13:42:47,713 - id_card_api - INFO - Processing successful
+2025-03-16 13:42:47,713 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'type'>
+2025-03-16 13:47:36,247 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:47:36,248 - id_card_api - INFO - Authentication successful
+2025-03-16 13:47:36,250 - id_card_api - INFO - Processing successful
+2025-03-16 13:49:21,473 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:49:21,473 - id_card_api - INFO - Authentication successful
+2025-03-16 13:49:21,490 - id_card_api - INFO - Processing successful
+2025-03-16 13:49:21,490 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'string_type', 'loc': ('response', 'id_data', 0, '[key]'), 'msg': 'Input should be a valid string', 'input': 0}
+
+2025-03-16 13:49:26,795 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:49:26,795 - id_card_api - INFO - Authentication successful
+2025-03-16 13:49:26,795 - id_card_api - INFO - Processing successful
+2025-03-16 13:49:26,795 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'string_type', 'loc': ('response', 'id_data', 0, '[key]'), 'msg': 'Input should be a valid string', 'input': 0}
+
+2025-03-16 13:50:08,972 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:50:08,974 - id_card_api - INFO - Authentication successful
+2025-03-16 13:50:08,974 - id_card_api - INFO - Processing successful
+2025-03-16 13:50:08,978 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'string_type', 'loc': ('response', 'id_data', 0, '[key]'), 'msg': 'Input should be a valid string', 'input': 0}
+
+2025-03-16 13:52:16,444 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:52:16,445 - id_card_api - INFO - Authentication successful
+2025-03-16 13:52:16,455 - id_card_api - INFO - Processing successful
+2025-03-16 13:55:05,771 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:55:05,773 - id_card_api - INFO - Authentication successful
+2025-03-16 13:55:05,782 - id_card_api - INFO - Processing successful
+2025-03-16 13:56:02,327 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:56:02,329 - id_card_api - INFO - Authentication successful
+2025-03-16 13:56:02,331 - id_card_api - INFO - Processing successful
+2025-03-16 13:57:40,134 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:57:40,134 - id_card_api - INFO - Authentication successful
+2025-03-16 13:57:43,756 - id_card_api - INFO - Processing successful
+2025-03-16 13:57:43,756 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'ultralytics.engine.results.Boxes'>
+2025-03-16 13:57:48,443 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:57:48,443 - id_card_api - INFO - Authentication successful
+2025-03-16 13:57:48,958 - id_card_api - INFO - Processing successful
+2025-03-16 13:57:48,960 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'ultralytics.engine.results.Boxes'>
+2025-03-16 13:59:10,559 - id_card_api - INFO - Authentication attempt
+2025-03-16 13:59:10,559 - id_card_api - INFO - Authentication successful
+2025-03-16 13:59:14,212 - id_card_api - INFO - Processing successful
+2025-03-16 14:01:00,589 - id_card_api - INFO - Authentication attempt
+2025-03-16 14:01:00,589 - id_card_api - INFO - Authentication successful
+2025-03-16 14:01:00,614 - id_card_api - INFO - Processing successful
+2025-03-16 14:01:00,617 - id_card_api - ERROR - Unhandled exception: Unable to serialize unknown type: <class 'numpy.ndarray'>
+2025-03-16 14:01:37,269 - id_card_api - INFO - Authentication attempt
+2025-03-16 14:01:37,274 - id_card_api - INFO - Authentication successful
+2025-03-16 14:01:37,321 - id_card_api - INFO - Processing successful
+2025-03-16 16:11:33,826 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:11:33,828 - id_card_api - INFO - Authentication successful
+2025-03-16 16:11:36,755 - id_card_api - INFO - Processing successful
+2025-03-16 16:18:07,632 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:18:07,634 - id_card_api - INFO - Authentication successful
+2025-03-16 16:18:08,758 - id_card_api - INFO - Processing successful
+2025-03-16 16:18:21,986 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:18:21,989 - id_card_api - INFO - Authentication successful
+2025-03-16 16:18:23,896 - id_card_api - INFO - Processing successful
+2025-03-16 16:19:07,656 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:19:07,656 - id_card_api - INFO - Authentication successful
+2025-03-16 16:19:08,890 - id_card_api - INFO - Processing successful
+2025-03-16 16:19:23,456 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:19:23,458 - id_card_api - INFO - Authentication successful
+2025-03-16 16:19:24,721 - id_card_api - INFO - Processing successful
+2025-03-16 16:20:40,921 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:20:40,921 - id_card_api - INFO - Authentication successful
+2025-03-16 16:20:42,635 - id_card_api - INFO - Processing successful
+2025-03-16 16:21:35,172 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:21:35,175 - id_card_api - INFO - Authentication successful
+2025-03-16 16:21:36,936 - id_card_api - INFO - Processing successful
+2025-03-16 16:22:27,768 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:22:27,772 - id_card_api - INFO - Authentication successful
+2025-03-16 16:22:29,366 - id_card_api - INFO - Processing successful
+2025-03-16 16:34:09,493 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:34:09,544 - id_card_api - INFO - Authentication successful
+2025-03-16 16:34:11,649 - id_card_api - INFO - Processing successful
+2025-03-16 16:41:08,633 - id_card_api - INFO - Authentication attempt
+2025-03-16 16:41:08,634 - id_card_api - INFO - Authentication successful
+2025-03-16 16:41:09,872 - id_card_api - INFO - Processing successful
+2025-03-16 18:06:18,717 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:06:18,717 - id_card_api - INFO - Authentication successful
+2025-03-16 18:06:21,197 - id_card_api - INFO - Processing successful
+2025-03-16 18:07:09,947 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:07:09,949 - id_card_api - INFO - Authentication successful
+2025-03-16 18:07:10,957 - id_card_api - INFO - Processing successful
+2025-03-16 18:32:39,026 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:32:39,026 - id_card_api - INFO - Authentication successful
+2025-03-16 18:32:39,985 - id_card_api - INFO - Processing successful
+2025-03-16 18:32:53,734 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:32:53,734 - id_card_api - INFO - Authentication successful
+2025-03-16 18:32:54,896 - id_card_api - INFO - Processing successful
+2025-03-16 18:33:35,962 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:33:35,962 - id_card_api - INFO - Authentication successful
+2025-03-16 18:33:36,989 - id_card_api - INFO - Processing successful
+2025-03-16 18:33:55,152 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:33:55,152 - id_card_api - INFO - Authentication successful
+2025-03-16 18:33:56,167 - id_card_api - INFO - Processing successful
+2025-03-16 18:34:12,108 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:34:12,109 - id_card_api - INFO - Authentication successful
+2025-03-16 18:34:13,047 - id_card_api - INFO - Processing successful
+2025-03-16 18:34:57,647 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:34:57,648 - id_card_api - INFO - Authentication successful
+2025-03-16 18:34:58,825 - id_card_api - INFO - Processing successful
+2025-03-16 18:35:25,317 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:35:25,317 - id_card_api - INFO - Authentication successful
+2025-03-16 18:35:26,415 - id_card_api - INFO - Processing successful
+2025-03-16 18:35:55,547 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:35:55,548 - id_card_api - INFO - Authentication successful
+2025-03-16 18:35:56,450 - id_card_api - INFO - Processing successful
+2025-03-16 18:46:17,564 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:46:17,566 - id_card_api - INFO - Authentication successful
+2025-03-16 18:46:19,295 - id_card_api - INFO - Processing successful
+2025-03-16 18:48:11,221 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:48:11,225 - id_card_api - INFO - Authentication successful
+2025-03-16 18:48:14,983 - id_card_api - INFO - Processing successful
+2025-03-16 18:48:36,372 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:48:36,374 - id_card_api - INFO - Authentication successful
+2025-03-16 18:48:38,160 - id_card_api - INFO - Processing successful
+2025-03-16 18:49:03,477 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:49:03,478 - id_card_api - INFO - Authentication successful
+2025-03-16 18:49:05,124 - id_card_api - INFO - Processing successful
+2025-03-16 18:49:30,608 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:49:30,608 - id_card_api - INFO - Authentication successful
+2025-03-16 18:49:32,225 - id_card_api - INFO - Processing successful
+2025-03-16 18:50:01,522 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:50:01,524 - id_card_api - INFO - Authentication successful
+2025-03-16 18:50:03,084 - id_card_api - INFO - Processing successful
+2025-03-16 18:50:28,226 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:50:28,227 - id_card_api - INFO - Authentication successful
+2025-03-16 18:50:29,871 - id_card_api - INFO - Processing successful
+2025-03-16 18:50:51,961 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:50:51,962 - id_card_api - INFO - Authentication successful
+2025-03-16 18:50:53,514 - id_card_api - INFO - Processing successful
+2025-03-16 18:51:18,862 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:51:18,863 - id_card_api - INFO - Authentication successful
+2025-03-16 18:51:20,840 - id_card_api - INFO - Processing successful
+2025-03-16 18:51:53,318 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:51:53,322 - id_card_api - INFO - Authentication successful
+2025-03-16 18:51:54,848 - id_card_api - INFO - Processing successful
+2025-03-16 18:52:19,287 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:52:19,290 - id_card_api - INFO - Authentication successful
+2025-03-16 18:52:20,918 - id_card_api - INFO - Processing successful
+2025-03-16 18:52:48,543 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:52:48,546 - id_card_api - INFO - Authentication successful
+2025-03-16 18:52:50,995 - id_card_api - INFO - Processing successful
+2025-03-16 18:53:22,518 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:53:22,520 - id_card_api - INFO - Authentication successful
+2025-03-16 18:53:24,258 - id_card_api - INFO - Processing successful
+2025-03-16 18:53:57,643 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:53:57,644 - id_card_api - INFO - Authentication successful
+2025-03-16 18:53:59,343 - id_card_api - INFO - Processing successful
+2025-03-16 18:54:40,079 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:54:40,080 - id_card_api - INFO - Authentication successful
+2025-03-16 18:54:40,461 - id_card_api - INFO - Processing successful
+2025-03-16 18:54:46,649 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:54:46,651 - id_card_api - INFO - Authentication successful
+2025-03-16 18:54:46,992 - id_card_api - INFO - Processing successful
+2025-03-16 18:55:13,192 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:55:13,194 - id_card_api - INFO - Authentication successful
+2025-03-16 18:55:14,691 - id_card_api - INFO - Processing successful
+2025-03-16 18:55:59,205 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:55:59,206 - id_card_api - INFO - Authentication successful
+2025-03-16 18:56:01,018 - id_card_api - INFO - Processing successful
+2025-03-16 18:56:33,234 - id_card_api - INFO - Authentication attempt
+2025-03-16 18:56:33,235 - id_card_api - INFO - Authentication successful
+2025-03-16 18:56:35,094 - id_card_api - INFO - Processing successful
+2025-03-16 19:45:49,552 - id_card_api - INFO - Authentication attempt
+2025-03-16 19:45:49,552 - id_card_api - INFO - Authentication successful
+2025-03-16 19:45:54,081 - id_card_api - INFO - Processing successful
+2025-03-16 19:47:46,506 - id_card_api - INFO - Authentication attempt
+2025-03-16 19:47:46,508 - id_card_api - INFO - Authentication successful
+2025-03-16 19:47:48,020 - id_card_api - INFO - Processing successful
+2025-03-16 19:48:24,396 - id_card_api - INFO - Authentication attempt
+2025-03-16 19:48:24,396 - id_card_api - INFO - Authentication successful
+2025-03-16 19:48:26,433 - id_card_api - INFO - Processing successful
+2025-03-16 20:07:23,808 - id_card_api - INFO - Authentication attempt
+2025-03-16 20:07:23,810 - id_card_api - INFO - Authentication successful
+2025-03-16 20:07:25,712 - id_card_api - INFO - Processing successful
+2025-03-16 20:08:17,939 - id_card_api - INFO - Authentication attempt
+2025-03-16 20:08:17,940 - id_card_api - INFO - Authentication successful
+2025-03-16 20:08:19,966 - id_card_api - INFO - Processing successful
+2025-03-16 21:27:34,734 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:27:34,746 - id_card_api - INFO - Authentication successful
+2025-03-16 21:27:37,386 - id_card_api - INFO - Processing successful
+2025-03-16 21:27:50,247 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:27:50,247 - id_card_api - INFO - Authentication successful
+2025-03-16 21:27:51,484 - id_card_api - INFO - Processing successful
+2025-03-16 21:28:07,140 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:28:07,140 - id_card_api - INFO - Authentication successful
+2025-03-16 21:28:08,126 - id_card_api - INFO - Processing successful
+2025-03-16 21:28:30,191 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:28:30,191 - id_card_api - INFO - Authentication successful
+2025-03-16 21:28:31,230 - id_card_api - INFO - Processing successful
+2025-03-16 21:29:26,285 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:29:26,286 - id_card_api - INFO - Authentication successful
+2025-03-16 21:29:28,376 - id_card_api - INFO - Processing successful
+2025-03-16 21:41:21,647 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:41:21,648 - id_card_api - INFO - Authentication successful
+2025-03-16 21:41:24,016 - id_card_api - INFO - Processing successful
+2025-03-16 21:41:41,063 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:41:41,063 - id_card_api - INFO - Authentication successful
+2025-03-16 21:41:42,264 - id_card_api - INFO - Processing successful
+2025-03-16 21:42:00,269 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:42:00,270 - id_card_api - INFO - Authentication successful
+2025-03-16 21:42:01,106 - id_card_api - INFO - Processing successful
+2025-03-16 21:42:31,670 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:42:31,670 - id_card_api - INFO - Authentication successful
+2025-03-16 21:42:32,601 - id_card_api - INFO - Processing successful
+2025-03-16 21:43:03,382 - id_card_api - INFO - Authentication attempt
+2025-03-16 21:43:03,382 - id_card_api - INFO - Authentication successful
+2025-03-16 21:43:04,221 - id_card_api - INFO - Processing successful
+2025-03-19 20:27:50,770 - id_card_api - INFO - Authentication attempt
+2025-03-19 20:27:50,779 - id_card_api - INFO - Authentication successful
+2025-03-19 20:27:53,335 - id_card_api - INFO - Processing successful
+2025-03-19 20:32:44,948 - id_card_api - INFO - Authentication attempt
+2025-03-19 20:32:44,948 - id_card_api - INFO - Authentication successful
+2025-03-19 20:32:45,792 - id_card_api - INFO - Processing successful
+2025-03-21 23:21:08,528 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:21:08,537 - id_card_api - INFO - Authentication successful
+2025-03-21 23:21:13,780 - id_card_api - INFO - Processing successful
+2025-03-21 23:27:02,278 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:27:02,278 - id_card_api - INFO - Authentication successful
+2025-03-21 23:27:07,387 - id_card_api - INFO - Processing successful
+2025-03-21 23:28:33,399 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:28:33,403 - id_card_api - INFO - Authentication successful
+2025-03-21 23:28:38,348 - id_card_api - INFO - Processing successful
+2025-03-21 23:29:39,582 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:29:39,583 - id_card_api - INFO - Authentication successful
+2025-03-21 23:29:44,084 - id_card_api - INFO - Processing successful
+2025-03-21 23:32:07,404 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:32:07,405 - id_card_api - INFO - Authentication successful
+2025-03-21 23:32:14,196 - id_card_api - INFO - Processing successful
+2025-03-21 23:33:25,636 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:33:25,637 - id_card_api - INFO - Authentication successful
+2025-03-21 23:33:32,665 - id_card_api - INFO - Processing successful
+2025-03-21 23:37:32,799 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:37:32,800 - id_card_api - INFO - Authentication successful
+2025-03-21 23:37:48,930 - id_card_api - INFO - Processing successful
+2025-03-21 23:38:20,151 - id_card_api - INFO - Authentication attempt
+2025-03-21 23:38:20,151 - id_card_api - INFO - Authentication successful
+2025-03-21 23:38:27,102 - id_card_api - INFO - Processing successful
+2025-03-22 11:37:36,902 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:37:36,915 - id_card_api - INFO - Authentication successful
+2025-03-22 11:37:42,061 - id_card_api - INFO - Processing successful
+2025-03-22 11:38:35,726 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:38:35,727 - id_card_api - INFO - Authentication successful
+2025-03-22 11:38:38,316 - id_card_api - INFO - Processing successful
+2025-03-22 11:39:32,881 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:39:32,881 - id_card_api - INFO - Authentication successful
+2025-03-22 11:39:35,387 - id_card_api - INFO - Processing successful
+2025-03-22 11:39:55,466 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:39:55,467 - id_card_api - INFO - Authentication successful
+2025-03-22 11:39:59,154 - id_card_api - INFO - Processing successful
+2025-03-22 11:40:29,189 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:40:29,189 - id_card_api - INFO - Authentication successful
+2025-03-22 11:40:31,647 - id_card_api - INFO - Processing successful
+2025-03-22 11:41:29,422 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:41:29,423 - id_card_api - INFO - Authentication successful
+2025-03-22 11:41:31,842 - id_card_api - INFO - Processing successful
+2025-03-22 11:42:28,537 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:42:28,538 - id_card_api - INFO - Authentication successful
+2025-03-22 11:42:31,776 - id_card_api - INFO - Processing successful
+2025-03-22 11:45:56,279 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:45:56,280 - id_card_api - INFO - Authentication successful
+2025-03-22 11:45:59,131 - id_card_api - INFO - Processing successful
+2025-03-22 11:47:30,164 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:47:30,164 - id_card_api - INFO - Authentication successful
+2025-03-22 11:47:32,456 - id_card_api - ERROR - Processing error: cannot access local variable 'segmented_image' where it is not associated with a value
+2025-03-22 11:49:43,653 - id_card_api - INFO - Authentication attempt
+2025-03-22 11:49:43,653 - id_card_api - INFO - Authentication successful
+2025-03-22 11:49:47,351 - id_card_api - INFO - Processing successful
+2025-06-09 18:24:59,489 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:24:59,490 - id_card_api - INFO - Authentication successful
+2025-06-09 18:25:00,594 - id_card_api - INFO - Processing successful
+2025-06-09 18:25:39,053 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:25:39,054 - id_card_api - INFO - Authentication successful
+2025-06-09 18:25:39,059 - id_card_api - ERROR - Processing error: The dataset has no 'Pixel Data', 'Float Pixel Data' or 'Double Float Pixel Data' element, no pixel data to decode
+2025-06-09 18:32:16,598 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:32:16,599 - id_card_api - INFO - Authentication successful
+2025-06-09 18:32:16,605 - id_card_api - ERROR - Processing error: The dataset has no 'Pixel Data', 'Float Pixel Data' or 'Double Float Pixel Data' element, no pixel data to decode
+2025-06-09 18:32:48,991 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:32:48,991 - id_card_api - INFO - Authentication successful
+2025-06-09 18:32:48,996 - id_card_api - ERROR - Processing error: The dataset has no 'Pixel Data', 'Float Pixel Data' or 'Double Float Pixel Data' element, no pixel data to decode
+2025-06-09 18:33:19,216 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:33:19,217 - id_card_api - INFO - Authentication successful
+2025-06-09 18:33:20,597 - id_card_api - INFO - Processing successful
+2025-06-09 18:43:14,283 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:43:14,284 - id_card_api - INFO - Authentication successful
+2025-06-09 18:43:15,639 - id_card_api - INFO - Processing successful
+2025-06-09 18:43:36,084 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:43:36,085 - id_card_api - INFO - Authentication successful
+2025-06-09 18:43:37,372 - id_card_api - ERROR - Processing error: OCR function did not return expected dictionary with 'result', 'patient_id', and 'study_id' keys.
+2025-06-09 18:44:33,236 - id_card_api - INFO - Authentication attempt
+2025-06-09 18:44:33,237 - id_card_api - INFO - Authentication successful
+2025-06-09 18:44:34,651 - id_card_api - INFO - Processing successful
+2025-06-09 19:00:43,998 - id_card_api - INFO - Authentication attempt
+2025-06-09 19:00:43,999 - id_card_api - INFO - Authentication successful
+2025-06-09 19:00:44,666 - id_card_api - INFO - Processing successful
+2025-06-09 19:01:11,307 - id_card_api - INFO - Authentication attempt
+2025-06-09 19:01:11,308 - id_card_api - INFO - Authentication successful
+2025-06-09 19:01:11,803 - id_card_api - INFO - Processing successful
+2025-06-09 22:22:39,502 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:22:39,502 - id_card_api - INFO - Authentication successful
+2025-06-09 22:22:40,334 - id_card_api - INFO - Processing successful
+2025-06-09 22:27:29,854 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:27:29,855 - id_card_api - INFO - Authentication successful
+2025-06-09 22:27:30,717 - id_card_api - ERROR - Processing error: OCR function did not return expected dictionary with keys: ['result', 'patient_id', 'study_id', 'finding', 'coordinates']
+2025-06-09 22:28:52,645 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:28:52,645 - id_card_api - INFO - Authentication successful
+2025-06-09 22:28:53,493 - id_card_api - ERROR - Processing error: OCR function did not return expected dictionary with keys: ['result', 'patient_id', 'study_id', 'finding', 'coordinates']
+2025-06-09 22:35:30,897 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:35:30,898 - id_card_api - INFO - Authentication successful
+2025-06-09 22:35:31,731 - id_card_api - ERROR - Processing error: OCR function did not return expected dictionary with keys: ['result', 'patient_id', 'study_id', 'finding', 'coordinates']
+2025-06-09 22:37:31,506 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:37:31,507 - id_card_api - INFO - Authentication successful
+2025-06-09 22:37:32,388 - id_card_api - ERROR - Processing error: OCR function did not return expected dictionary with keys: ['result', 'patient_id', 'study_id', 'finding', 'coordinates']
+2025-06-09 22:39:40,521 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:39:40,522 - id_card_api - INFO - Authentication successful
+2025-06-09 22:39:41,357 - id_card_api - INFO - Processing successful
+2025-06-09 22:45:56,592 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-06-09 22:46:18,653 - id_card_api - INFO - Authentication attempt
+2025-06-09 22:46:18,654 - id_card_api - INFO - Authentication successful
+2025-06-09 22:46:19,463 - id_card_api - INFO - Processing successful
+2025-06-09 23:12:24,008 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:12:24,009 - id_card_api - INFO - Authentication successful
+2025-06-09 23:12:24,834 - id_card_api - INFO - Processing successful
+2025-06-09 23:15:47,378 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:15:47,379 - id_card_api - INFO - Authentication successful
+2025-06-09 23:15:57,717 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:15:57,717 - id_card_api - INFO - Authentication successful
+2025-06-09 23:15:58,509 - id_card_api - INFO - Processing successful
+2025-06-09 23:22:29,786 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:22:29,786 - id_card_api - INFO - Authentication successful
+2025-06-09 23:22:30,727 - id_card_api - INFO - Processing successful
+2025-06-09 23:23:51,547 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:23:51,548 - id_card_api - INFO - Authentication successful
+2025-06-09 23:23:52,525 - id_card_api - INFO - Processing successful
+2025-06-09 23:28:26,218 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:28:26,219 - id_card_api - INFO - Authentication successful
+2025-06-09 23:28:27,139 - id_card_api - INFO - Processing successful
+2025-06-09 23:31:19,034 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:31:19,034 - id_card_api - INFO - Authentication successful
+2025-06-09 23:31:20,527 - id_card_api - INFO - Processing successful
+2025-06-09 23:32:42,094 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:32:42,095 - id_card_api - INFO - Authentication successful
+2025-06-09 23:32:42,696 - id_card_api - INFO - Processing successful
+2025-06-09 23:33:40,621 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:33:40,622 - id_card_api - INFO - Authentication successful
+2025-06-09 23:33:41,144 - id_card_api - INFO - Processing successful
+2025-06-09 23:34:58,076 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:34:58,077 - id_card_api - INFO - Authentication successful
+2025-06-09 23:34:59,035 - id_card_api - INFO - Processing successful
+2025-06-09 23:36:34,165 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:36:34,166 - id_card_api - INFO - Authentication successful
+2025-06-09 23:36:35,073 - id_card_api - INFO - Processing successful
+2025-06-09 23:37:57,999 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:37:57,999 - id_card_api - INFO - Authentication successful
+2025-06-09 23:37:58,005 - id_card_api - ERROR - Processing error: The dataset has no 'Pixel Data', 'Float Pixel Data' or 'Double Float Pixel Data' element, no pixel data to decode
+2025-06-09 23:38:19,295 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:38:19,296 - id_card_api - INFO - Authentication successful
+2025-06-09 23:38:19,762 - id_card_api - INFO - Processing successful
+2025-06-09 23:39:58,095 - id_card_api - INFO - Authentication attempt
+2025-06-09 23:39:58,095 - id_card_api - INFO - Authentication successful
+2025-06-09 23:39:58,601 - id_card_api - INFO - Processing successful
+2025-06-23 17:34:16,831 - id_card_api - INFO - Authentication attempt
+2025-06-23 17:34:16,860 - id_card_api - INFO - Authentication successful
+2025-06-23 17:34:21,078 - id_card_api - INFO - Processing successful
+2025-07-10 18:27:40,639 - id_card_api - INFO - Authentication attempt
+2025-07-10 18:27:40,640 - id_card_api - INFO - Authentication successful
+2025-07-10 18:27:46,512 - id_card_api - INFO - Processing successful
+2025-07-10 19:05:20,402 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:05:20,402 - id_card_api - INFO - Authentication successful
+2025-07-10 19:05:20,404 - id_card_api - ERROR - Processing error: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-10 19:05:41,426 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:05:41,427 - id_card_api - INFO - Authentication successful
+2025-07-10 19:05:43,883 - id_card_api - INFO - Processing successful
+2025-07-10 19:07:15,387 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:07:15,388 - id_card_api - INFO - Authentication successful
+2025-07-10 19:07:20,635 - id_card_api - INFO - Processing successful
+2025-07-10 19:09:22,626 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:09:22,627 - id_card_api - INFO - Authentication successful
+2025-07-10 19:09:26,273 - id_card_api - INFO - Processing successful
+2025-07-10 19:11:06,728 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:11:06,729 - id_card_api - INFO - Authentication successful
+2025-07-10 19:11:09,628 - id_card_api - INFO - Processing successful
+2025-07-10 19:11:27,108 - id_card_api - INFO - Authentication attempt
+2025-07-10 19:11:27,108 - id_card_api - INFO - Authentication successful
+2025-07-10 19:11:29,829 - id_card_api - INFO - Processing successful
+2025-07-12 13:38:04,622 - id_card_api - INFO - Authentication attempt
+2025-07-12 13:38:04,623 - id_card_api - INFO - Authentication successful
+2025-07-12 13:38:07,870 - id_card_api - INFO - Processing successful
+2025-07-12 13:38:25,276 - id_card_api - INFO - Authentication attempt
+2025-07-12 13:38:25,276 - id_card_api - INFO - Authentication successful
+2025-07-12 13:38:28,005 - id_card_api - ERROR - Processing error: cannot access local variable 'finding' where it is not associated with a value
+2025-07-12 13:38:34,792 - id_card_api - INFO - Authentication attempt
+2025-07-12 13:38:34,792 - id_card_api - INFO - Authentication successful
+2025-07-12 13:38:39,784 - id_card_api - ERROR - Processing error: cannot access local variable 'finding' where it is not associated with a value
+2025-07-12 13:40:24,535 - id_card_api - INFO - Authentication attempt
+2025-07-12 13:40:24,536 - id_card_api - INFO - Authentication successful
+2025-07-12 13:40:27,471 - id_card_api - INFO - Processing successful
+2025-07-12 14:16:48,268 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:16:48,272 - id_card_api - INFO - Authentication successful
+2025-07-12 14:16:51,588 - id_card_api - INFO - Processing successful
+2025-07-12 14:20:58,547 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:20:58,548 - id_card_api - INFO - Authentication successful
+2025-07-12 14:21:02,111 - id_card_api - INFO - Processing successful
+2025-07-12 14:27:32,347 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:27:32,347 - id_card_api - INFO - Authentication successful
+2025-07-12 14:27:33,692 - id_card_api - INFO - Processing successful
+2025-07-12 14:27:33,882 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 14:27:52,900 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:27:52,900 - id_card_api - INFO - Authentication successful
+2025-07-12 14:27:54,144 - id_card_api - INFO - Processing successful
+2025-07-12 14:27:54,146 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 14:28:50,963 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:28:50,963 - id_card_api - INFO - Authentication successful
+2025-07-12 14:28:52,361 - id_card_api - INFO - Processing successful
+2025-07-12 14:28:52,364 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 14:28:58,877 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:28:58,877 - id_card_api - INFO - Authentication successful
+2025-07-12 14:29:01,535 - id_card_api - INFO - Processing successful
+2025-07-12 14:29:01,537 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 14:31:57,679 - id_card_api - INFO - Authentication attempt
+2025-07-12 14:31:57,680 - id_card_api - INFO - Authentication successful
+2025-07-12 14:32:04,084 - id_card_api - INFO - Processing successful
+2025-07-12 19:04:09,757 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:04:09,758 - id_card_api - INFO - Authentication successful
+2025-07-12 19:04:11,078 - id_card_api - INFO - Processing successful
+2025-07-12 19:04:11,081 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 19:04:24,780 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:04:24,781 - id_card_api - INFO - Authentication successful
+2025-07-12 19:04:26,582 - id_card_api - INFO - Processing successful
+2025-07-12 19:04:26,585 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 19:04:50,841 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:04:50,842 - id_card_api - INFO - Authentication successful
+2025-07-12 19:04:53,273 - id_card_api - ERROR - Processing error: cannot access local variable 'finding' where it is not associated with a value
+2025-07-12 19:06:20,651 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:06:20,652 - id_card_api - INFO - Authentication successful
+2025-07-12 19:06:21,958 - id_card_api - INFO - Processing successful
+2025-07-12 19:06:21,964 - id_card_api - ERROR - Unhandled exception: 1 validation errors:
+  {'type': 'list_type', 'loc': ('response', 'finding'), 'msg': 'Input should be a valid list', 'input': 'Normal'}
+
+2025-07-12 19:58:18,969 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:58:18,970 - id_card_api - INFO - Authentication successful
+2025-07-12 19:58:23,221 - id_card_api - INFO - Processing successful
+2025-07-12 19:58:46,476 - id_card_api - INFO - Authentication attempt
+2025-07-12 19:58:46,477 - id_card_api - INFO - Authentication successful
+2025-07-12 19:58:47,918 - id_card_api - INFO - Processing successful
+2025-07-15 15:51:01,195 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:51:01,241 - id_card_api - INFO - Authentication successful
+2025-07-15 15:51:03,103 - id_card_api - INFO - Processing successful
+2025-07-15 15:54:46,536 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:54:46,537 - id_card_api - INFO - Authentication successful
+2025-07-15 15:54:48,247 - id_card_api - INFO - Processing successful
+2025-07-15 15:55:34,323 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:55:34,323 - id_card_api - INFO - Authentication successful
+2025-07-15 15:55:38,030 - id_card_api - INFO - Processing successful
+2025-07-15 15:55:45,187 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:55:45,187 - id_card_api - INFO - Authentication successful
+2025-07-15 15:55:47,508 - id_card_api - INFO - Processing successful
+2025-07-15 15:55:55,269 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:55:55,269 - id_card_api - INFO - Authentication successful
+2025-07-15 15:55:57,567 - id_card_api - ERROR - Processing error: cannot access local variable 'finding' where it is not associated with a value
+2025-07-15 15:56:22,871 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:56:22,871 - id_card_api - INFO - Authentication successful
+2025-07-15 15:56:24,142 - id_card_api - INFO - Processing successful
+2025-07-15 15:56:32,050 - id_card_api - INFO - Authentication attempt
+2025-07-15 15:56:32,050 - id_card_api - INFO - Authentication successful
+2025-07-15 15:56:33,331 - id_card_api - INFO - Processing successful
+2025-07-16 15:45:45,267 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:45:45,269 - id_card_api - INFO - Authentication successful
+2025-07-16 15:45:46,507 - id_card_api - INFO - Processing successful
+2025-07-16 15:47:14,518 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:47:14,519 - id_card_api - INFO - Authentication successful
+2025-07-16 15:47:15,824 - id_card_api - INFO - Processing successful
+2025-07-16 15:47:34,429 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:47:34,429 - id_card_api - INFO - Authentication successful
+2025-07-16 15:47:35,725 - id_card_api - INFO - Processing successful
+2025-07-16 15:48:58,543 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:48:58,544 - id_card_api - INFO - Authentication successful
+2025-07-16 15:48:59,731 - id_card_api - INFO - Processing successful
+2025-07-16 15:51:12,475 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:51:12,476 - id_card_api - INFO - Authentication successful
+2025-07-16 15:51:13,890 - id_card_api - INFO - Processing successful
+2025-07-16 15:54:36,375 - id_card_api - INFO - Authentication attempt
+2025-07-16 15:54:36,375 - id_card_api - INFO - Authentication successful
+2025-07-16 15:54:37,887 - id_card_api - INFO - Processing successful
+2025-07-16 15:58:38,555 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=416>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=416>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:41,020 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:41,052 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:41,308 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:58,441 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:58,572 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=320>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=320>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 15:58:58,585 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)
+handle: <Handle _ProactorReadPipeTransport._loop_reading(<_OverlappedF...ed result=384>)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 320, in _loop_reading
+    self._data_received(data, length)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 20:27:16,018 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 20:27:33,519 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 21:53:42,862 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 21:53:51,551 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-16 21:57:08,229 - id_card_api - INFO - Authentication attempt
+2025-07-16 21:57:08,230 - id_card_api - INFO - Authentication successful
+2025-07-16 21:57:08,235 - id_card_api - INFO - C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp5scek1yx.dcm
+2025-07-16 21:57:09,944 - id_card_api - INFO - Processing successful
+2025-07-16 21:59:27,930 - id_card_api - INFO - Authentication attempt
+2025-07-16 21:59:27,930 - id_card_api - INFO - Authentication successful
+2025-07-16 21:59:27,935 - id_card_api - INFO - C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpw0wletw2.dcm
+2025-07-16 21:59:30,253 - id_card_api - INFO - Processing successful
+2025-07-16 22:01:19,781 - id_card_api - INFO - Authentication attempt
+2025-07-16 22:01:19,782 - id_card_api - INFO - Authentication successful
+2025-07-16 22:01:19,790 - id_card_api - INFO - C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmm2hqbfy.dcm
+2025-07-16 22:01:21,274 - id_card_api - INFO - Processing successful
+2025-07-16 22:02:39,704 - id_card_api - INFO - Authentication attempt
+2025-07-16 22:02:39,705 - id_card_api - INFO - Authentication successful
+2025-07-16 22:02:39,713 - id_card_api - INFO - C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpetej2mst.dcm
+2025-07-16 22:02:41,265 - id_card_api - INFO - Processing successful
+2025-07-16 22:09:21,714 - id_card_api - INFO - Authentication attempt
+2025-07-16 22:09:21,715 - id_card_api - INFO - Authentication successful
+2025-07-16 22:09:21,719 - id_card_api - INFO - C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmhw1s6kz.dcm
+2025-07-16 22:09:22,961 - id_card_api - INFO - Processing successful
+2025-07-16 22:18:36,618 - IDCardAPI - INFO - Starting the server...
+2025-07-16 22:18:41,397 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:18:41,398 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:18:41,402 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmphw8i_u8o.dcm
+2025-07-16 22:18:43,242 - IDCardAPI - INFO - Processing successful
+2025-07-16 22:18:43,243 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmphw8i_u8o.dcm deleted
+2025-07-16 22:20:19,085 - IDCardAPI - INFO - Starting the server...
+2025-07-16 22:21:57,500 - IDCardAPI - INFO - Starting the server...
+2025-07-16 22:22:05,968 - IDCardAPI - ERROR - Unhandled exception: name 'FileResponse' is not defined
+2025-07-16 22:23:32,589 - IDCardAPI - INFO - Starting the server...
+2025-07-16 22:24:13,172 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:24:13,173 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:24:13,178 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp_a60lcae.dcm
+2025-07-16 22:24:14,732 - IDCardAPI - INFO - Processing successful
+2025-07-16 22:24:14,733 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp_a60lcae.dcm deleted
+2025-07-16 22:25:46,027 - IDCardAPI - INFO - Starting the server...
+2025-07-16 22:26:30,228 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:26:30,228 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:26:30,233 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmputaegb0s.dcm
+2025-07-16 22:26:31,756 - IDCardAPI - INFO - Processing successful
+2025-07-16 22:26:31,757 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmputaegb0s.dcm deleted
+2025-07-16 22:26:52,408 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:26:52,408 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:26:52,419 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpv2mtj4x6.dcm
+2025-07-16 22:26:52,421 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpv2mtj4x6.dcm deleted
+2025-07-16 22:26:52,421 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:27:11,579 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:27:11,580 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:27:11,591 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpl4h44xav.dcm
+2025-07-16 22:27:11,592 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpl4h44xav.dcm deleted
+2025-07-16 22:27:11,592 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:27:45,705 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:27:45,705 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:27:45,717 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpw947i68p.dcm
+2025-07-16 22:27:45,718 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpw947i68p.dcm deleted
+2025-07-16 22:27:45,718 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:30:23,012 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:30:23,013 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:30:23,018 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp81xh6g3b.dcm
+2025-07-16 22:30:24,252 - IDCardAPI - INFO - Processing successful
+2025-07-16 22:30:24,253 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp81xh6g3b.dcm deleted
+2025-07-16 22:45:37,712 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:45:37,712 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:45:37,722 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpve7ijpnb.dcm
+2025-07-16 22:45:37,723 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpve7ijpnb.dcm deleted
+2025-07-16 22:45:37,723 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:46:24,295 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:46:24,295 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:46:24,305 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpx5hxt4mp.dcm
+2025-07-16 22:46:24,306 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpx5hxt4mp.dcm deleted
+2025-07-16 22:46:24,306 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:46:39,633 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:46:39,633 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:46:39,641 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwworvm57.dcm
+2025-07-16 22:46:39,643 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwworvm57.dcm deleted
+2025-07-16 22:46:39,643 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:47:14,035 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:47:14,035 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:47:14,043 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpaseqxtoa.dcm
+2025-07-16 22:47:14,044 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpaseqxtoa.dcm deleted
+2025-07-16 22:47:14,044 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-16 22:47:44,261 - IDCardAPI - INFO - Authentication attempt
+2025-07-16 22:47:44,262 - IDCardAPI - INFO - Authentication successful
+2025-07-16 22:47:44,269 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp2j90oury.dcm
+2025-07-16 22:47:44,271 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp2j90oury.dcm deleted
+2025-07-16 22:47:44,271 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 00:12:11,705 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:12:11,706 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:12:11,717 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp8trr8h6m.dcm
+2025-07-17 00:12:14,511 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:12:14,512 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp8trr8h6m.dcm deleted
+2025-07-17 00:15:22,176 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:15:22,176 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:15:22,197 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmptunda60c.dcm
+2025-07-17 00:15:24,358 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:15:24,360 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmptunda60c.dcm deleted
+2025-07-17 00:16:43,907 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:16:43,908 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:16:43,915 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpl6q6sn_4.dcm
+2025-07-17 00:16:43,916 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpl6q6sn_4.dcm deleted
+2025-07-17 00:16:43,916 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 00:17:43,546 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:17:43,547 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:17:43,567 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpnn7vmh_h.dcm
+2025-07-17 00:17:45,486 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpnn7vmh_h.dcm deleted
+2025-07-17 00:17:45,486 - IDCardAPI - ERROR - Error processing the file: cannot access local variable 'finding' where it is not associated with a value
+2025-07-17 00:19:38,292 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:19:38,292 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:19:38,310 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpeefd219x.dcm
+2025-07-17 00:19:39,820 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:19:39,822 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpeefd219x.dcm deleted
+2025-07-17 00:22:11,341 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:22:11,341 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:22:11,373 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpns4chh9b.dcm
+2025-07-17 00:22:12,521 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:22:12,524 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpns4chh9b.dcm deleted
+2025-07-17 00:22:20,158 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:22:20,158 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:22:20,179 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpuj6w9jpm.dcm
+2025-07-17 00:22:21,242 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:22:21,244 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpuj6w9jpm.dcm deleted
+2025-07-17 00:22:37,419 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:22:37,419 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:22:37,435 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpa4n1n0hu.dcm
+2025-07-17 00:22:39,298 - IDCardAPI - INFO - Processing successful
+2025-07-17 00:22:39,299 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpa4n1n0hu.dcm deleted
+2025-07-17 00:45:37,224 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:45:37,225 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:45:37,233 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp2ceynkv0.dcm
+2025-07-17 00:45:37,234 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp2ceynkv0.dcm deleted
+2025-07-17 00:45:37,234 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 00:45:57,711 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:45:57,711 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:45:57,724 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmparznik2k.dcm
+2025-07-17 00:45:57,725 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmparznik2k.dcm deleted
+2025-07-17 00:45:57,725 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 00:46:10,948 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 00:46:10,949 - IDCardAPI - INFO - Authentication successful
+2025-07-17 00:46:10,961 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpi6n4hjg_.dcm
+2025-07-17 00:46:10,963 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpi6n4hjg_.dcm deleted
+2025-07-17 00:46:10,963 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 01:10:32,278 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-17 14:46:12,856 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 14:46:12,857 - IDCardAPI - INFO - Authentication successful
+2025-07-17 14:46:12,862 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwc6oa8ja.dcm
+2025-07-17 14:46:14,132 - IDCardAPI - INFO - Processing successful
+2025-07-17 14:46:14,133 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwc6oa8ja.dcm deleted
+2025-07-17 14:46:45,216 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 14:46:45,217 - IDCardAPI - INFO - Authentication successful
+2025-07-17 14:46:45,237 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmrar6htd.dcm
+2025-07-17 14:46:46,785 - IDCardAPI - INFO - Processing successful
+2025-07-17 14:46:46,787 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmrar6htd.dcm deleted
+2025-07-17 15:05:22,115 - IDCardAPI - INFO - Starting the server...
+2025-07-17 15:06:22,575 - IDCardAPI - INFO - Starting the server...
+2025-07-17 15:07:11,590 - IDCardAPI - INFO - Starting the server...
+2025-07-17 15:07:48,828 - IDCardAPI - INFO - Starting the server...
+2025-07-17 15:08:11,429 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 15:08:11,430 - IDCardAPI - INFO - Authentication successful
+2025-07-17 15:08:11,447 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp_5s44q_h.dcm
+2025-07-17 15:08:13,373 - IDCardAPI - INFO - Processing successful
+2025-07-17 15:08:13,376 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp_5s44q_h.dcm deleted
+2025-07-17 17:21:40,753 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 17:21:40,753 - IDCardAPI - INFO - Authentication successful
+2025-07-17 17:21:40,759 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpy1qjhd0b.dcm
+2025-07-17 17:21:41,971 - IDCardAPI - INFO - Processing successful
+2025-07-17 17:21:41,972 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpy1qjhd0b.dcm deleted
+2025-07-17 17:22:13,370 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:22:25,726 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:22:47,828 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:23:23,906 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:23:53,061 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:25:02,638 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:26:37,663 - IDCardAPI - INFO - Starting the server...
+2025-07-17 17:27:50,102 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 17:27:50,103 - IDCardAPI - INFO - Authentication successful
+2025-07-17 17:27:50,108 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpfv4abj8x.dcm
+2025-07-17 17:27:51,316 - IDCardAPI - INFO - Processing successful
+2025-07-17 17:27:51,322 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpfv4abj8x.dcm deleted
+2025-07-17 17:28:37,930 - IDCardAPI - INFO - Starting the server...
+2025-07-17 22:56:07,551 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-17 22:56:16,356 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-17 23:17:51,566 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:17:51,566 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:17:51,574 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpgbolrql3.dcm
+2025-07-17 23:17:51,574 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpgbolrql3.dcm deleted
+2025-07-17 23:17:51,574 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 23:18:16,370 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:18:16,371 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:18:16,380 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp8x70bgej.dcm
+2025-07-17 23:18:16,382 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp8x70bgej.dcm deleted
+2025-07-17 23:18:16,382 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 23:18:40,556 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:18:40,560 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:18:40,574 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwu19pm1k.dcm
+2025-07-17 23:18:40,575 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpwu19pm1k.dcm deleted
+2025-07-17 23:18:40,575 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 23:18:53,791 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:18:53,791 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:18:53,803 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmzaikzus.dcm
+2025-07-17 23:18:53,805 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmzaikzus.dcm deleted
+2025-07-17 23:18:53,805 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 23:19:52,617 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:19:52,617 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:19:52,633 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp079zicn_.dcm
+2025-07-17 23:19:52,634 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp079zicn_.dcm deleted
+2025-07-17 23:19:52,634 - IDCardAPI - ERROR - Error processing the file: File is missing DICOM File Meta Information header or the 'DICM' prefix is missing from the header. Use force=True to force reading.
+2025-07-17 23:26:22,804 - IDCardAPI - INFO - Starting the server...
+2025-07-17 23:27:27,370 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:27:27,370 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:27:27,378 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpth4aeqx4.dcm
+2025-07-17 23:27:29,032 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:27:29,034 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpth4aeqx4.dcm deleted
+2025-07-17 23:28:38,629 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:28:38,630 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:28:38,638 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpcq0989sy.dcm
+2025-07-17 23:28:40,126 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:28:40,127 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpcq0989sy.dcm deleted
+2025-07-17 23:28:46,879 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:28:46,880 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:28:46,892 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmplc7u18yl.dcm
+2025-07-17 23:28:48,617 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:28:48,619 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmplc7u18yl.dcm deleted
+2025-07-17 23:28:55,716 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:28:55,716 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:28:55,725 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp0193wrwo.dcm
+2025-07-17 23:28:57,607 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:28:57,609 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp0193wrwo.dcm deleted
+2025-07-17 23:29:05,868 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:29:05,868 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:29:05,880 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp9y8f9tym.dcm
+2025-07-17 23:29:07,896 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:29:07,897 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp9y8f9tym.dcm deleted
+2025-07-17 23:29:15,502 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:29:15,503 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:29:15,512 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpxx0g8erw.dcm
+2025-07-17 23:29:17,482 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:29:17,484 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpxx0g8erw.dcm deleted
+2025-07-17 23:29:26,150 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:29:26,151 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:29:26,162 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpghdjyuy5.dcm
+2025-07-17 23:29:27,860 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:29:27,862 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpghdjyuy5.dcm deleted
+2025-07-17 23:29:43,961 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:29:43,962 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:29:43,970 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp4lej33uw.dcm
+2025-07-17 23:29:45,427 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:29:45,429 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp4lej33uw.dcm deleted
+2025-07-17 23:29:53,641 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:29:53,641 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:29:53,652 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp4kodlznl.dcm
+2025-07-17 23:29:55,207 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:29:55,209 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp4kodlznl.dcm deleted
+2025-07-17 23:30:12,519 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:30:12,519 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:30:12,527 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmppt_4z2j9.dcm
+2025-07-17 23:30:14,262 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:30:14,263 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmppt_4z2j9.dcm deleted
+2025-07-17 23:32:59,948 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:32:59,948 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:32:59,959 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp072yohso.dcm
+2025-07-17 23:33:03,016 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:33:03,017 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp072yohso.dcm deleted
+2025-07-17 23:33:03,023 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:33:03,023 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:33:03,034 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpjyn1sh0b.dcm
+2025-07-17 23:33:05,280 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:33:05,283 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpjyn1sh0b.dcm deleted
+2025-07-17 23:39:15,169 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:39:15,170 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:39:15,179 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp0azlu1nu.dcm
+2025-07-17 23:39:17,510 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:39:17,511 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp0azlu1nu.dcm deleted
+2025-07-17 23:47:00,661 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:47:00,662 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:47:00,673 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpid89f3kd.dcm
+2025-07-17 23:47:03,413 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:47:03,415 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpid89f3kd.dcm deleted
+2025-07-17 23:54:10,410 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:54:10,410 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:54:10,420 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmrqqvqvp.dcm
+2025-07-17 23:54:12,833 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:54:12,834 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmpmrqqvqvp.dcm deleted
+2025-07-17 23:56:37,408 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:56:37,409 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:56:37,417 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp34x8r99r.dcm
+2025-07-17 23:56:39,667 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp34x8r99r.dcm deleted
+2025-07-17 23:56:39,667 - IDCardAPI - ERROR - Error processing the file: cannot access local variable 'finding' where it is not associated with a value
+2025-07-17 23:57:16,833 - IDCardAPI - INFO - Authentication attempt
+2025-07-17 23:57:16,834 - IDCardAPI - INFO - Authentication successful
+2025-07-17 23:57:16,858 - IDCardAPI - INFO - File saved temporarily at C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp98nwft4t.dcm
+2025-07-17 23:57:19,440 - IDCardAPI - INFO - Processing successful
+2025-07-17 23:57:19,442 - IDCardAPI - INFO - Temporary file C:\Users\M1EB6~1.SAB\AppData\Local\Temp\tmp98nwft4t.dcm deleted
+2025-07-18 05:48:23,617 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-18 05:48:29,111 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-19 06:59:07,684 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-19 06:59:13,917 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-20 00:41:03,269 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-20 00:41:23,643 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-21 00:58:36,875 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-21 00:58:54,290 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-21 06:40:36,116 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-21 13:26:45,767 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-21 13:26:55,179 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-22 13:58:07,096 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-22 13:58:31,002 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-23 10:14:34,017 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-23 10:16:07,320 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-23 10:19:30,349 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-23 15:08:08,426 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-23 15:08:20,697 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-23 21:21:39,546 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-23 21:21:57,225 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-24 08:39:29,842 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-24 08:39:41,463 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)
+handle: <Handle _ProactorReadPipeTransport._data_received(bytearray(b'\...00\x00\x00\n'), 33)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 270, in _data_received
+    self._protocol.data_received(data)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 172, in data_received
+    self.handle_events()
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 181, in handle_events
+    self.send_400_response(msg)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 298, in send_400_response
+    output = self.conn.send(event)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 538, in send
+    data_list = self.send_with_data_passthrough(event)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 563, in send_with_data_passthrough
+    self._process_event(self.our_role, event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_connection.py", line 284, in _process_event
+    self._cstate.process_event(role, type(event), server_switch_event)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 291, in process_event
+    self._fire_event_triggered_transitions(role, _event_type)
+  File "E:\14class x_ray\Last_Trial_NDL(no_Data_Leakage)\.venv\Lib\site-packages\h11\_state.py", line 309, in _fire_event_triggered_transitions
+    raise LocalProtocolError(
+h11._util.LocalProtocolError: can't handle event type Response when role=SERVER and state=MUST_CLOSE
+2025-07-24 11:44:12,191 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\medverse\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host

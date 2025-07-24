@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID Card Recognition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+        }
+        .form-container {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        .form-group input,
+        .form-group button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+        }
+        .form-group button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background-color: #45a049;
+        }
+        .result-container {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>XRay Chest - MV-RAI</h1>
+    <div class="form-container">
+        <form id="upload-form">
+            <div class="form-group">
+                <label for="api-key" hidden="True">API Key:</label>
+                <input type="text" id="api-key" value="ak_prd_F82jK4bP9xZqL7tD3eHvMnW6" placeholder="Enter API Key" hidden="True" required>
+            </div>
+            <div class="form-group">
+                <label for="api-secret" hidden="True">API Secret:</label>
+                <input type="password" id="api-secret" value="as_prd_X9QcRvT7mHjG5sYpN2zE3bKd8fLw6AaZ"  hidden="True" placeholder="Enter API Secret" required>
+            </div>
+            <div class="form-group">
+                <label for="file">Upload DICOM File:</label>
+                <input type="file" id="file" accept=".dcm" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Process Dicom </button>
+            </div>
+        </form>
+    </div>
+    <div class="result-container" id="result-container" style="display: none;">
+        <h3>Results</h3>
+        <pre id="result-output"></pre>
+    </div>
+
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            // Collect form data
+            const apiKey = document.getElementById('api-key').value;
+            const apiSecret = document.getElementById('api-secret').value;
+            const fileInput = document.getElementById('file');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                alert('Please select a file to upload.');
+                return;
+            }
+
+            // Create FormData to send to the API
+            const formData = new FormData();
+            formData.append('file', file);
+
+            // Make the API request
+            try {
+                const response = await fetch('/api/id-recognition', {
+                    method: 'POST',
+                    headers: {
+                        'x-api-key': apiKey,
+                        'x-api-secret': apiSecret,
+                    },
+                    body: formData,
+                });
+
+                const resultContainer = document.getElementById('result-container');
+                const resultOutput = document.getElementById('result-output');
+                resultContainer.style.display = 'block';
+
+                if (response.ok) {
+                    const data = await response.json();
+                    resultOutput.textContent = JSON.stringify(data, null, 2);
+                    resultOutput.className = 'success';
+                } else {
+                    const error = await response.json();
+                    resultOutput.textContent = error.detail || 'Error processing ID card.';
+                    resultOutput.className = 'error';
+                }
+            } catch (error) {
+                alert('An unexpected error occurred: ' + error.message);
+            }
+        });
+    </script>
+</body>
+</html>
